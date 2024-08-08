@@ -31,7 +31,7 @@ This is a clone of the Apple Vision website, built using HTML, CSS, JavaScript, 
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/apple-vision-clone.git
+   git clone https://github.com/dikshaaarajj/apple-vision-clone.git
    
 2. Navigate to the project directory:
    
